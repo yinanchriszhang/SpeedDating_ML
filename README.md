@@ -94,10 +94,13 @@ The above three points are just some of the steps to further optimise speed dati
 
 # Reference
 Speed Dating datset from OpenML
+https://www.openml.org/d/40536
 
 Optimising score selection
+https://towardsdatascience.com/accuracy-recall-precision-f-score-specificity-which-to-optimize-on-867d3f11124
 
 FeaturesSelection.com
+https://www.featureranking.com/tutorials/machine-learning-tutorials/sk-part-3-cross-validation-and-hyperparameter-tuning/
 
 Code taken from RMIT MATH2319 Tutorial on SK5
 
